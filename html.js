@@ -287,7 +287,6 @@ export const getHtml = (size) => /*html*/ `
         </div>
         <div class="resize-outline"></div>
         <div id="container" class="chat-container">
-          <iframe src=${config.iframeSrc} title="Codygo AI assistant"></iframe>
           <div id="resize-side" class="left"><div><div class="side-handle-wrapper left"><div id="resize-side-handle"></div></div></div></div>
           <div id="resize-side" class="right"><div><div class="side-handle-wrapper right"><div id="resize-side-handle"></div></div></div></div>
           <div class="bottomRight"></div>
